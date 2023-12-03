@@ -1,6 +1,2 @@
-int main(){
-
-
-
-
+int function(){
 }
